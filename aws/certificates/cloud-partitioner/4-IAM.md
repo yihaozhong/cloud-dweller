@@ -22,3 +22,11 @@
   - resources: list of resources to which the actions applied to
   - conditions (optional)
 
+- MFA
+
+- Access keys, cli, and SDK: 3 option to access AWS
+
+
+- Access key ID: username, secret access key: password
+
+- IAM role: for EC2 instance, lambda, or others
