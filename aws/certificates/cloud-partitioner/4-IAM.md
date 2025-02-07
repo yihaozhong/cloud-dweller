@@ -30,3 +30,12 @@
 - Access key ID: username, secret access key: password
 
 - IAM role: for EC2 instance, lambda, or others
+
+- IAM Security tool
+  - Iam credential report: account level
+  - Iam Last Access: user-level
+
+- one physical user = one aws user
+
+- dont use root account except set up 
+
